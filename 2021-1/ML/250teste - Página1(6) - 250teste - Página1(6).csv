@@ -1,0 +1,253 @@
+ID,Nome,Ano,Duracao,Metascore,Generos,Qtd votos,IMDB,Qtd atores,Estrela de cinema,Companhia(s) produtora(s),Distribuicao,idioma original,colecao de filmes,oscars indicados,oscars ganhos,Qtd filmes anteriores ator princ.
+1,Um Sonho de Liberdade,1994,142,80,drama,2474674,93,54,T,Castle Rock,Columbia,en,F,7,0,20
+2,Konjaku monogatari: The new edition,2007,88,,"comedia, drama",500,10,15,F,,,jp,T,0,0,1
+3,Os Fantasmas se Divertem,1988,92,70,"comedia, fantasia",277293,75,13,T,Geffen,Warner Bros.,en,F,1,1,2
+4,Star Trek,2009,127,92,"acao, aventura, sci-fi",590806,79,88,F,Spyglass,Paramount,en,T,4,1,8
+5,O Rei Leao,1994,88,88,"animacao, aventura, drama",987061,85,23,F,Walt Disney,Buena Vista,en,T,4,2,9
+6,R.I.P.D. - Agentes do Alem,2013,96,25,"acao, aventura, comedia",124891,56,20,T,Dark Horse,Universal,en,F,0,0,34
+7,Bernardo e Bianca,1977,78,74,"animacao, aventura, comedia",61148,69,8,F,Walt Disney,Buena Vista,en,F,1,0,5
+8,Cinderella,2015,95,67,"aventura, drama, familia",169139,69,38,F,Walt Disney,Walt Disney,en,F,1,0,8
+9,Todos os Caes Merecem o Ceu,1989,84,50,"animacao, comedia, drama",39697,68,30,F,,United Artists,en,T,0,0,12
+10,Kaye Ballard - The Show Goes On,2019,90,,biografia,190,100,29,T,Jim-Dandy Films,,en,F,0,0,36
+11,Apenas Amigos,2005,96,47,"comedia, romance",111150,62,52,T,New Line Cinema,,en,F,0,0,16
+12,Operacao Baba,2005,95,30,"acao, comedia, drama",91343,56,76,T,Walt Disney,Buena Vista,en,F,0,0,6
+13,Encontro Marcado,1998,178,43,"drama, fantasia, romance",227565,72,28,T,City Light,Universal,en,F,0,0,23
+14,Zathura: Uma Aventura Espacial,2005,101,67,"acao, aventura, comedia",98995,62,11,F,,Columbia,en,F,0,0,3
+15,MIB: Homens de Preto,1997,98,71,"acao, aventura, comedia",537432,73,45,T,Amblin,Columbia,en,T,5,3,19
+16,Harry Potter e a Pedra Filosofal,2001,152,64,"aventura, familia, fantasia",702565,76,52,T,Heyday,Warner Bros.,en,T,3,0,1
+17,O Senhor dos Aneis: O Retorno do Rei,2003,201,94,"acao, aventura, drama",1715375,89,52,F,WingNut,New Line,en,T,11,11,15
+18,Megamente,2010,95,63,"animacao, acao, comedia",241603,73,19,T,DreamWorks,Paramount,en,F,0,0,36
+19,O Aprendiz de Feiticeiro,2010,109,46,"acao, aventura, familia",157519,61,36,T,Walt Disney,Walt Disney,en,F,0,0,60
+20,O Ultimo Samurai,2003,154,55,"acao, drama",416713,77,48,T,Radar,Warner Bros.,en,F,4,0,31
+21,Salvando o Natal,2014,79,18,"comedia, familia",15570,14,47,F,Camfam,Samuel Goldwyn Films,en,F,0,0,5
+22,A Mumia,1999,124,48,"acao, aventura, fantasia",408243,70,25,F,Alphaville Films,Universal,en,T,1,0,5
+23,Operação Cupido,1998,128,64,"aventura, comedia, drama",128359,66,48,T,Walt Disney,Buena Vista,en,F,0,0,0
+24,Dirty Dancing: Ritmo Quente,1987,100,65,"drama, musical, romance",215603,70,33,F,Vestron Pictures,Flashstar,en,F,1,1,3
+25,"Nanny McPhee, a Baba Encantada",2005,97,59,"comedia, familia, fantasia",72226,66,21,T,Universal Pictures,Universal,en,F,0,0,19
+26,Vestida para Casar,2008,111,47,"comedia, romance",158991,61,33,F,Spyglass,20th Century Fox,en,F,0,0,17
+27,Uma Noite no Museu,2006,108,48,"aventura, comedia, familia",328375,64,39,T,Ingenious,20th Century Fox,en,F,0,0,45
+28,Diary of a Cannibal,2007,81,,"crime, horror",864,15,16,F,The Shadow Factory,Lions Gate,en,F,0,0,1
+29,Venom: Tempo de Carnificina,2021,97,47,"acao, aventura, sci-fi",32542,64,49,F,Columbia,Sony Pictures,en,T,0,0,27
+30,Alone in the Dark: O Despertar do Mal,2005,99,9,"acao, horror, sci-fi",45097,24,32,F,Flashstar,Flashstar,en,T,0,0,25
+31,Meninas Malvadas,2004,97,66,comedia,356987,70,66,T,Broadway,Paramount,en,F,0,0,4
+32,Shrek 2,2004,93,75,"animacao, aventura, comedia",437822,72,25,T,DreamWorks,,en,T,2,0,14
+33,"Eu, Robô",2004,105,59,"acao, misterio, sci-fi",516446,71,34,T,20th Century Fox,,en,F,1,0,14
+34,Os Incríveis,2004,105,90,"animacao, acao, aventura",683212,80,51,T,Pixar,Walt Disney,en,T,4,2,28
+35,Os Bad Boys II,2003,147,38,"acao, comedia, crime",240535,66,89,T,Columbia,Sony,en,T,0,0,11
+36,Procurando Nemo,2003,100,90,"animacao, aventura, comedia",986977,81,23,F,Pixar,Walt Disney,en,T,4,1,18
+37,O Último Mestre do Ar,2003,103,20,"acao, aventura, familia",158658,40,32,F,Nickelodeon,Paramount,en,T,0,0,0
+38,Réquiem para um Sonho,2000,102,68,drama,798178,83,72,F,Thousand Words,"Artisan, Europa",,F,1,0,29
+39,X-Men: O Filme,2000,104,64,"acao, aventura, sci-fi",589466,74,62,T,"20th Century Fox
+Marvel Studios",20th Century Fox,en,T,0,0,26
+40,Náufrago,2000,143,73,"aventura, drama, romance",554375,78,65,T,ImageMovers,DreamWorks,en,F,2,0,28
+41,Psicopata Americano,2000,101,64,"comedia, crime, drama",528918,76,39,F,Edward R. Pressman,Lions Gate,en,F,0,0,14
+42,Corpo Fechado,2000,106,62,"drama, misterio, sci-fi",402049,73,40,T,Touchstone,Buena Vista,en,F,0,0,37
+43,Entrando numa Fria,2000,108,73,"comedia, romance",321435,70,31,T,Tribeca,DreamWorks,en,T,1,0,26
+44,Ghost World: Aprendendo a Viver,2001,111,88,"comedia, drama",117899,73,59,T,Granada,United Artists,,F,1,0,60
+45,O Candelabro Italiano,1962,169,,"drama, romance",1207,64,13,F,,,,F,0,0,16
+46,A Flor do Pântano,1957,89,,"comedia, romance",2336,70,11,T,,Universal,,F,1,0,17
+47,Uma Mente Brilhante,2001,135,72,"biografia, drama",884071,82,55,F,Imagine,DreamWorks,en,F,8,4,21
+48,Monstros S.A.,2001,92,79,"animacao, aventura, comedia",853761,81,52,F,"Walt Disney, Pixar",Walt Disney,en,T,4,1,21
+49,Melodia Imortal,1956,123,,"biografia, drama, musical",1832,69,18,F,Columbia,Columbia,en,F,4,0,44
+50,Shrek,2001,90,84,"animacao, aventura, comedia",640468,79,23,T,DreamWorks,DreamWorks,en,T,2,1,9
+51,A Viagem de Chihiro,2001,125,96,"animacao, aventura, familia",697576,86,68,F,Studio Ghibli,Studio Ghibli,jp,F,1,1,4
+52,Meu Amigo Totoro,1988,86,86,"animacao, familia, fantasia",312553,82,53,F,Studio Ghibli,Studio Ghibli,jp,F,0,0,24
+53,Dia de Treinamento,2001,122,69,"crime, drama, thriller",411012,77,38,T,,,en,F,0,0,37
+54,Falcão Negro em Perigo,2001,144,74,"drama, historia, guerra",378356,77,47,F,Scott Free,Columbia,en,F,2,1,13
+55,Lilo & Stitch,2002,85,73,"animacao, aventura, comedia",177972,73,49,F,Walt Disney,Buena Vista,en,T,1,0,5
+56,O Quarto do Pânico,2002,112,65,"crime, drama, thriller",269795,68,15,F,Miramax,Miramax,en,T,5,1,35
+57,O Carteiro e o Poeta,2002,108,81,"biografia, comedia, drama",35190,77,14,T,WingNut,New Line,it,F,0,0,13
+58,E sua Mãe Também,2001,106,88,drama,119584,76,20,F,,,,F,1,0,5
+59,O Senhor dos Anéis: A Sociedade do Anel,2001,207,92,"acao, aventura, drama",1737327,88,45,T,,,en,T,13,4,19
+60,Donnie Darko,2001,113,88,"drama, misterio, sci-fi",765843,80,41,F,Flower,Pandora,en,F,0,0,5
+61,O Fabuloso Destino de Amélie Poulain,2001,122,69,"comedia, romance",726919,83,69,F,Claudie,Prokino,,F,5,0,2
+62,Piratas do Caribe: A Maldição do Pérola Negra,2003,143,63,"acao, aventura, fantasia",1047804,80,64,T,Walt Disney,Buena Vista,en,T,5,0,27
+63,Hellboy,2004,122,72,"acao, fantasia",316166,68,45,T,,,en,T,0,0,21
+64,"Van Helsing, o Caçador de Monstros",2004,131,35,"acao, aventura, fantasia",255033,61,23,T,,,en,F,0,0,8
+65,Batman Begins,2005,140,70,"acao, aventura",1365037,82,95,F,Warner Bros.,Warner Bros.,en,T,1,0,22
+66,V de Vingança,2005,132,62,"acao, drama, sci-fi",1069297,81,67,T,Virtual Studios,Warner Bros.,en,F,0,0,33
+67,Madagascar,2005,86,57,"animacao, aventura, comedia",381732,69,21,T,DramWorks,DreamWorks,en,T,0,0,29
+68,Quarteto Fantástico,2005,106,40,"acao, aventura, fantasia",319490,57,50,T,20th Century Fox,20th Century Fox,en,T,0,0,12
+69,Happy Feet,2006,108,77,"animacao, aventura, comedia",177264,64,97,T,Kennedy Miller,Warner Bros.,en,T,1,1,32
+70,300,2006,117,52,"acao, drama",758985,76,75,T,Virtual Studios,Warner Bros.,en,F,0,0,20
+71,Superman: O Retorno,2006,154,72,"acao, sci-fi",276592,60,78,F,Warner Bros.,Warner Bros.,en,T,1,0,2
+72,A Era do Gelo 2,2006,91,60,"animacao, aventura, comedia",266094,68,71,F,20th Century Fox,20th Century Fox,en,T,0,0,5
+73,Ratatouille,2007,111,96,"animacao, aventura, comedia",672091,80,22,F,"Walt Disney, Pixar",Walt Disney,en,F,5,1,13
+74,Transformers,2007,144,61,"acao, aventura, sci-fi",614335,70,83,T,,,en,T,3,0,11
+75,Sangue Negro,2007,158,93,drama,547271,82,50,F,,,en,F,8,2,14
+76,"Sweeney Todd, o Barbeiro Demoníaco da Rua Fleet",2007,116,83,"drama, horror, musical",354737,73,52,T,Hasbro,Paramount,en,F,2,1,36
+77,Motoqueiro Fantasma,2007,110,35,"acao, fantasia, thriller",230294,53,44,T,,,en,T,0,0,50
+78,Atividade Paranormal,2007,86,68,"horror, misterio",228931,63,5,F,Blumhouse,Paramount,en,T,0,0,3
+79,A Lenda do Tesouro Perdido: Livro dos Segredos,2007,124,48,"acao, aventura, misterio",226823,65,62,T,Walt Disney,Walt Disney,en,T,0,0,53
+80,P.S. Eu te Amo,2007,126,39,"comedia, drama, romance",204841,70,39,F,Alcon,Warner Bros.,en,F,0,0,14
+81,Encantada,2007,107,75,"animacao, aventura, comedia",188241,70,218,T,Walt Disney,Walt Disney,en,F,3,0,18
+82,Kung Fu Panda,2008,92,74,"animacao, acao, aventura",439894,76,26,T,DreamWorks,Paramount,en,T,1,0,40
+83,Indiana Jones e o Reino da Caveira de Cristal,2008,122,65,"acao, aventura",439029,61,37,F,LucasFilm,Paramount,en,T,0,0,41
+84,Madagascar 2: A Grande Escapada,2008,89,61,"animacao, aventura, comedia",215142,66,40,T,DreamWorks,Paramount,en,T,0,0,51
+85,As Crônicas de Nárnia: Príncipe Caspian,2008,150,62,"acao, aventura, familia",201882,65,44,F,Walden,Walt Disney,en,T,0,0,2
+86,WALL·E,2008,98,95,"animacao, aventura, familia",1046196,84,24,F,Walt Disney,Walt Disney,en,F,6,1,13
+87,Homem de Ferro,2008,126,79,"acao, aventura, sci-fi",987501,79,61,T,Marvel,Paramount,en,T,2,0,61
+88,Hancock,2008,92,49,"acao, drama, fantasia",460882,64,54,T,Columbia,Sony,en,F,0,0,23
+89,Crepúsculo,2008,122,56,"drama, fantasia, romance",444116,52,32,T,DMG,Paris,en,T,0,0,19
+90,Up: Altas Aventuras,2009,96,88,"acao, aventura, comedia",979140,82,31,F,Pixar,Walt Disney,en,F,5,2,42
+91,Harry Potter e o Enigma do Príncipe,2009,153,78,"acao, aventura, familia",501686,76,54,T,Heyday,Warner Bros.,en,T,1,0,8
+92,Transformers: A Vingança dos Derrotados,2009,149,35,"acao, aventura, sci-fi",394991,60,75,T,Hasbro,Paramount,en,T,1,0,15
+93,2012,2009,158,49,"acao, aventura, sci-fi",364657,58,106,F,Centropolis,Columbia,en,F,0,0,50
+94,Sob o Sol da Toscana,2003,113,52,"comedia, drama, romance",50092,68,48,F,Touchstone,Buena Vista,,F,0,0,22
+95,Abençoai as Feras e as Crianças,1971,109,,"comedia, drama",1383,67,18,F,Stanley,Columbia,,F,1,0,0
+96,Guardiões da Galáxia Vol. 2,2017,136,67,"acao, aventura, comedia",614196,76,47,T,Marvel,Walt Disney,en,T,1,0,26
+97,Mulher-Maravilha,2017,141,76,"acao, aventura, familia",613597,74,75,T,DC,Warner Bros.,en,T,0,0,9
+98,Dunkirk,2017,106,94,"acao, drama, historia",599321,78,76,F,Syncopy,Warner Bros.,en,F,8,3,1
+99,Jumanji: Bem-Vindo à Selva,2017,119,58,"acao, aventura, comedia",346641,69,47,T,Columbia,Sony,en,T,0,0,34
+100,A Bela e a Fera,2017,129,65,"aventura, familia, fantasia",289492,71,30,T,Walt Disney,Walt Disney,en,F,2,0,17
+101,Kong: A Ilha da Caveira,2017,118,62,"acao, aventura, fantasia",299758,66,129,T,Legendary,Warner Bros.,en,T,1,0,11
+102,Kingsman: O Círculo Dourado,2017,141,44,"acao, aventura, comedia",293866,67,36,F,TSG,20th Century Fox,en,T,0,0,7
+103,Alien: Covenant,2017,122,65,"horror, sci-fi, thriller",266624,64,53,F,20th Century Fox,20th Century Fox,en,T,0,0,30
+104,Piratas do Caribe: A Vingança de Salazar,2017,129,39,"acao, aventura, fantasia",282177,65,16,T,Walt Disney,Walt Disney,en,T,0,0,60
+105,Amor Além da Vida,1998,113,44,"drama, fantasia, romance",105969,70,66,T,Interscope,Universal,,F,2,1,36
+106,Transformers: O Último Cavaleiro,2017,154,27,"acao, aventura, sci-fi",142931,52,17,F,Hasbro,Paramount,en,T,0,0,42
+107,Lego Batman: O Filme,2017,104,75,"animacao, acao, aventura",138656,73,87,F,Warner Bros.,Warner Bros.,en,T,0,0,34
+108,Logan,2017,137,77,"acao, drama, sci-fi",692103,81,48,T,Marvel,20th Century Fox,en,T,1,0,30
+109,Star Wars: Os Últimos Jedi,2017,152,84,"acao, aventura, fantasia",591014,69,88,F,LucasFilm,Walt Disney,en,T,5,0,10
+110,Thor: Ragnarok,2017,130,74,"acao, aventura, comedia",651382,79,69,T,Marvel,Walt Disney,en,T,0,0,20
+111,Homem-Aranha: De Volta ao Lar,2017,133,73,"acao, aventura, sci-fi",558921,74,38,T,Marvel,Sony,en,T,0,0,76
+112,Lua de Cristal,1990,90,,"comedia, familia, fantasia",910,45,39,F,Xuxa,Columbia,,F,0,0,0
+113,Curtindo a Vida Adoidado,1986,103,61,comedia,336964,78,19,F,,Paramount,en,T,0,0,4
+114,Matilda,1996,98,72,"comedia, familia, fantasia",139244,69,44,T,Jersei,TriStar,en,F,0,0,38
+115,Um Príncipe em Nova York,1988,117,47,"comedia, romance",199480,71,60,T,Eddie Murphy,Paramount,en,F,2,0,7
+116,Resgate Abaixo de Zero,2006,120,64,"aventura, drama, familia",63191,73,39,F,Walt Disney,Buena Vista,en,F,0,0,18
+117,O Máskara,1994,101,56,"acao, comedia, crime",364173,69,46,T,Dark Horse,New Line,en,T,1,0,11
+118,O Homem de Aço,2013,143,55,"acao, aventura, sci-fi",732324,70,83,T,DC,Warner Bros.,en,T,0,0,11
+119,Jogos Vorazes: Em Chamas,2013,146,76,"acao, drama, misterio",634831,75,50,T,Lions Gate,,en,T,0,0,16
+120,Além da Escuridão: Star Trek,2013,132,72,"acao, aventura, sci-fi",472945,77,94,T,Bad Robot,Paramount,en,T,2,0,14
+121,Meu Malvado Favorito 2,2013,98,62,"animacao, aventura, comedia",382040,73,37,F,Illumination,Universal,en,T,2,0,28
+122,Thor: O Mundo Sombrio,2013,112,54,"acao, aventura, fantasia",631048,68,40,T,Marvel,Walt Disney,en,T,0,0,11
+123,Wolverine: Imortal,2013,126,61,"acao, sci-fi",444941,67,49,T,20th Century Fox,20th Century Fox,en,T,0,0,25
+124,X-Men: Dias de um Futuro Esquecido,2014,132,75,"acao, aventura, sci-fi",681364,79,79,T,20th Century Fox,20th Century Fox,en,T,1,0,34
+125,O Jogo da Imitação,2014,114,71,"biografia, drama, thriller",720477,80,27,T,Black Bear,StudioCanal,en,F,8,1,17
+126,Kingsman: Serviço Secreto,2014,129,60,"acao, aventura, comedia",619087,77,49,T,TSG,20th Century Fox,en,T,0,0,3
+127,Lucy,2014,89,61,"acao, sci-fi, thriller",468690,64,56,T,EuropaCorp,EuropaCorp,en,F,0,0,32
+128,Divergente,2014,139,48,"acao, aventura, misterio",440487,66,47,F,Summit,Summit,en,T,0,0,4
+129,Malévola,2014,97,56,"acao, aventura, familia",358347,70,36,T,Walt Disney,Walt Disney,en,T,1,0,4
+130,Uma Aventura Lego,2014,100,83,"animacao, aventura, comedia",335991,77,35,T,Warner Bros.,Warner Bros.,en,T,1,0,19
+131,Transformers: A Era da Extinção,2014,165,32,"acao, aventura, sci-fi",305323,56,69,F,Hasbro,Paramount,en,T,0,0,34
+132,Como Treinar o Seu Dragão 2,2014,102,76,"animacao, acao, aventura",317913,78,17,T,DreamWorks,20th Century Fox,en,T,1,0,22
+133,RoboCop,2014,117,52,"acao, crime, sci-fi",221782,61,75,T,Strike,Columbia,en,F,0,0,43
+134,Transcendence: A Revolução,2014,119,42,"acao, drama, sci-fi",222795,62,42,T,Alcon,Warner Bros.,en,F,0,0,50
+135,Jogos Vorazes,2012,142,68,"acao, aventura, sci-fi",875018,72,46,T,Color Force,Lions Gate,en,T,0,0,13
+136,O Hobbit: Uma Jornada Inesperada,2012,169,58,"aventura, fantasia",782727,78,43,F,New Line,Warner Bros.,en,T,0,0,13
+137,007 - Operação Skyfall,2012,143,81,"acao, aventura, thriller",660968,78,68,T,EON,Columbia,en,T,3,0,27
+138,Ted,2012,106,62,comedia,587814,69,50,F,Bluegrass,Universal,en,T,5,2,30
+139,Life of Pi,2012,127,79,"aventura, drama, fantasia",601747,79,41,F,20th Century Fox,20th Century Fox,en,F,1,0,0
+140,O Espetacular Homem-Aranha,2012,136,66,"aventura, drama, fantasia",583891,69,46,F,Marvel,Columbia,en,T,11,4,8
+141,Detona Ralph,2012,101,72,"animacao, aventura, comedia",397529,77,68,F,,,en,T,1,0,53
+142,Valente,2012,93,69,"animacao, aventura, comedia",389445,71,204,T,Walt Disney,Walt Disney,en,F,1,1,26
+143,Os Miseráveis,2012,158,63,"drama, musical, romance",318618,76,37,T,Relativity Media,Universal,,F,8,3,23
+144,Branca de Neve e o Caçador,2012,127,57,"acao, aventura, drama",281158,61,127,T,Roth,Universal,en,T,2,0,26
+145,A Escolha Perfeita,2012,112,66,"comedia, musical, romance",290501,71,75,T,Gold Circle,Universal,en,T,0,0,13
+146,O Ditador,2012,83,58,comedia,290515,64,135,F,Four By Two,Paramount,en,F,0,0,10
+147,Battleship: A Batalha dos Mares,2012,131,41,"acao, aventura, sci-fi",241915,58,49,F,,Universal,en,T,0,0,5
+148,Projeto X: Uma Festa Fora de Controle,2012,88,48,comedia,197378,66,7,F,,Warner Bros.,en,F,0,0,0
+149,Gravidade,2013,91,96,"aventura, drama, sci-fi",793481,77,100,F,Heyday,Warner Bros.,en,F,10,7,40
+150,Homem de Ferro 3,2013,130,62,"acao, aventura, sci-fi",794230,71,55,T,Marvel,Paramount,en,T,1,0,72
+151,Alice no País das Maravilhas,2010,108,53,"aventura, familia, fantasia",397147,64,49,T,Walt Disney,Walt Disney,en,T,3,2,12
+152,A Mentira,2010,92,72,"comedia, drama, romance",373560,70,27,T,Olive Bridge,Screen Gems,en,T,0,0,7
+153,Tron: Uma Odisseia Eletrônica,1982,96,58,"acao, aventura, sci-fi",117092,68,32,F,Walt Disney,Walt Disney,en,F,2,0,12
+154,Shrek para Sempre,2010,93,58,"animacao, aventura, comedia",193922,63,130,T,DreamWorks,Paramount,en,T,0,0,18
+155,Percy Jackson e o Ladrão de Raios,2010,119,47,"aventura, familia, fantasia",182776,59,56,F,20th Century Fox,20th Century Fox,en,T,0,0,10
+156,Toy Story 3,2010,103,92,"animacao, aventura, comedia",788808,82,13,T,Walt Disney,Walt Disney,en,T,5,2,41
+157,Como Treinar o Seu Dragão,2010,98,75,"animacao, acao, aventura",696162,81,33,T,Paramount,Paramount,en,T,2,0,11
+158,Rango,2011,107,75,"animacao, aventura, comedia",249618,72,94,T,Nickelodeon,Paramount,en,F,1,1,41
+159,Harry Potter e as Relíquias da Morte - Parte 2,2011,130,85,"aventura, familia, fantasia",806262,81,95,T,Heyday,Warner Bros.,en,T,3,0,10
+160,Capitão América: O Primeiro Vingador,2011,124,66,"acao, aventura, sci-fi",785850,69,47,T,Marvel,Paramount,en,T,0,0,23
+161,Missão: Impossível - Protocolo Fantasma,2011,132,73,"acao, aventura, thriller",471075,74,52,T,Bad Robot,Paramount,en,T,0,0,41
+162,Sherlock Holmes: O Jogo de Sombras,2011,129,48,"acao, aventura, misterio",435242,75,106,T,Silver,Warner Bros.,en,F,0,0,66
+163,Transformers: O Lado Oculto da Lua,2011,154,42,"acao, aventura, sci-fi",394934,62,35,T,Hasbro,Paramount,en,T,3,0,17
+164,Eu Sou o Número Quatro,2011,111,36,"acao, aventura, sci-fi",232530,61,55,T,DreamWorks,Touchstone,en,F,0,0,2
+165,The Avengers - Os Vingadores,2012,143,69,"acao, aventura, sci-fi",1312187,80,54,T,Marvel,Walt Disney,en,T,1,0,70
+166,Cisne Negro,2010,108,79,"drama, thriller",726422,80,48,T,Dune,20th Century Fox,en,F,5,1,29
+167,Velozes & Furiosos 4,2009,107,46,"acao, thriller",275810,66,20,T,Relativity,Universal,en,T,0,0,21
+168,Coraline e o Mundo Secreto,2009,100,80,"animacao, drama, familia",209921,77,69,T,,Focus,en,F,1,0,15
+169,17 Outra Vez,2009,102,48,"comedia, drama, fantasia",190145,64,24,T,Plan B,New Line,en,F,0,0,4
+170,A Proposta,2009,108,48,"comedia, drama, romance",308279,67,60,T,Toucchstone,Walt Disney,en,F,0,0,24
+171,Animais Fantásticos e Onde Habitam,2016,132,66,"aventura, familia, fantasia",430087,73,113,F,Heyday,Warner Bros.,en,T,2,1,14
+172,X-Men: Apocalipse,2016,144,52,"acao, aventura, sci-fi",411102,69,40,T,Marvel,20th Century Fox,en,T,0,0,24
+173,Mogli - O Menino Lobo,2016,106,77,"aventura, comedia, drama",267849,74,11,T,Walt Disney,Walt Disney,en,F,0,0,2
+174,Moana: Um Mar de Aventuras,2016,107,81,"animacao, aventura, comedia",298911,76,66,T,Walt Disney,Walt Disney,en,F,2,0,0
+175,Procurando Dory,2016,97,77,"animacao, aventura, comedia",255794,73,55,F,Pixar,Walt Disney,en,T,0,0,5
+176,Star Trek: Sem Fronteiras,2016,122,68,"acao, aventura, sci-fi",237409,70,33,T,Bad Robot,Paramount,en,T,1,0,22
+177,Invocação do Mal 2,2016,134,65,"horror, misterio, thriller",250155,73,55,F,New Line,Warner Bros.,en,T,0,0,33
+178,Caça-Fantasmas,2016,117,60,"acao, comedia, fantasia",213694,65,14,F,Village,Columbia,en,F,0,0,18
+179,O Homem nas Trevas,2016,88,71,"crime, horror, thriller",253150,71,31,F,Ghost House,Screen Gems,en,F,0,0,58
+180,Pets: A Vida Secreta dos Bichos,2016,87,61,"animacao, aventura, comedia",191836,65,20,F,Illumination,Universal,en,T,0,0,28
+181,A Garota no Trem,2016,112,48,"crime, drama, misterio",179135,65,44,F,DreamWorks,Universal,en,F,0,0,25
+182,Terremoto: A Falha de San Andreas,2015,114,43,"acao, aventura, thriller",224965,61,68,T,New Line,Universal,en,F,0,0,29
+183,Vingadores: Era de Ultron,2015,141,66,"acao, aventura, sci-fi",795093,73,125,T,Marvel,Walt Disney,en,T,0,0,75
+184,Batman vs Superman: A Origem da Justiça,2016,152,44,"acao, aventura, sci-fi",666340,64,103,T,DC,Warner Bros.,en,T,0,0,43
+185,Capitão América: Guerra Civil,2016,147,75,"acao, aventura, sci-fi",712798,78,61,T,Marvel,Walt Disney,en,T,0,0,32
+186,O Esquadrão Suicida,2016,132,72,"acao, aventura, comedia",228330,73,28,T,DC,Warner Bros.,en,T,0,0,10
+187,Doutor Estranho,2016,115,72,"acao, aventura, fantasia",648705,75,40,T,Marvel,Walt Disney,en,T,0,0,22
+188,Rogue One: Uma História Star Wars,2016,133,65,"acao, aventura, sci-fi",582703,78,74,F,Lucasfilm,Walt Disney,en,T,2,0,4
+189,La La Land: Cantando Estações,2016,128,94,"comedia, musical, romance",540399,80,149,T,Black Label,Paris,en,F,14,6,24
+190,Zootopia,2016,108,78,"animacao, aventura, comedia",460716,80,50,F,Walt Disney,Walt Disney,en,F,1,1,0
+191,A Lenda de Tarzan,2016,110,44,"acao, aventura, drama",170343,62,57,F,Village,Warner Bros.,en,F,0,0,11
+192,As Tartarugas Ninja,2014,101,31,"acao, aventura, comedia",205453,58,28,T,Nickelodeon,Paramount,en,T,0,0,13
+193,Os Mortos Não Mentem,1998,98,,thriller,885,62,27,F,Walt Disney,Walt Disney,en,F,0,0,25
+194,Guardiões da Galáxia,2014,121,76,"acao, aventura, comedia",1098513,80,70,T,Marvel,Walt Disney,en,T,2,0,22
+195,Maze Runner: Correr ou Morrer,2014,113,57,"acao, misterio, sci-fi",439036,68,37,F,Temple Hill,20th Century Fox,en,T,0,0,7
+196,Jurassic World: O Mundo dos Dinossauros,2015,124,59,"acao, aventura, sci-fi",603123,70,38,F,Legendary,Universal,en,T,0,0,23
+197,Divertida Mente,2015,95,94,"animacao, aventura, comedia",656992,81,57,F,Walt Disney,Walt Disney,en,F,2,1,37
+198,Homem-Formiga,2015,117,64,"acao, aventura, comedia",610661,73,65,F,Marvel,Walt Disney,en,T,0,0,51
+199,007 Contra Spectre,2015,148,60,"acao, aventura, thriller",409716,68,76,F,EON,Columbia,en,T,1,1,31
+200,Missão: Impossível - Nação Secreta,2015,131,75,"acao, aventura, thriller",355619,74,82,T,Bad Robot,Paramount,en,T,0,0,46
+201,O Agente da U.N.C.L.E.,2015,116,56,"acao, aventura, comedia",291453,73,31,T,Davis,Warner Bros.,en,F,0,0,12
+202,Chappie,2015,120,41,"acao, crime, drama",240347,68,40,T,Columbia,Sony,en,F,0,0,11
+203,Maze Runner: Prova de Fogo,2015,131,43,"acao, aventura, sci-fi",235139,63,34,F,Temple Hill,20th Century Fox,en,T,0,0,5
+204,A Série Divergente: Insurgente,2015,119,42,"acao, aventura, sci-fi",227032,62,47,F,Summit,Paris,en,T,0,0,5
+205,Minions,2015,91,56,"animacao, aventura, comedia",222356,64,51,T,Illumination,Universal,en,T,0,0,46
+206,Sem Reservas,2007,104,50,"comedia, drama, romance",73120,63,45,F,Village,Warner Bros.,en,F,0,0,17
+207,12 Homens e uma Sentença,1957,96,96,"crime, drama",733045,90,12,F,,,en,F,3,0,44
+208,A Felicidade Não se Compra,1946,130,89,"drama, familia, fantasia",423688,86,35,T,Liberty,PKO,en,F,5,0,29
+209,Psicose,1960,109,97,"horror, misterio, thriller",633593,85,13,F,Shamley,Paramount,en,T,4,0,4
+210,"M, o Vampiro de Dusseldorf ",1931,117,,"crime, misterio, thriller",151191,83,18,F,Nero-Film,Vereinigte,en,F,0,0,0
+211,Touro Indomável,1980,129,89,"biografia, drama",336874,82,86,T,,United Artists,en,F,8,2,19
+212,O Homem Elefante,1980,124,78,"biografia, drama",231321,81,63,T,Brooksfilms,Paramount,en,F,8,0,13
+213,Sin City: A Cidade do Pecado,2005,124,74,"crime, thriller",751010,80,58,F,Dimension,Walt Disney,en,F,0,0,43
+214,Pacto Sinistro,1951,101,88,"crime, drama",129745,80,12,F,,,en,F,1,0,5
+215,...E o Vento Levou,1939,238,97,"drama, historia, romance",302320,81,43,F,,,en,F,15,10,43
+216,O Mágico de Oz,1939,102,92,"aventura, familia, fantasia",380392,80,12,F,Metro-Goldwyn-Mayer,Loew's,en,F,5,2,
+217,Um Corpo que Cai,1958,128,100,"misterio, romance, thriller",383775,83,9,F,Loew's,MGM,en,F,2,0,57
+218,O Poderoso Chefão II,1974,202,90,"crime, drama",1188509,90,69,T,Hitchcock,Paramount,en,T,11,6,
+219,Forrest Gump: O Contador de Histórias,1994,142,82,"drama, romance",1914752,88,116,T,,Paramount,en,F,13,6,20
+220,A Noviça Rebelde,1965,172,63,"biografia, drama, familia",216685,80,20,F,Tisch,Paramount,en,F,10,5,
+221,"Star Wars, Episódio I: A Ameaça Fantasma",1977,136,51,"acao, aventura, fantasia",758370,65,59,T,20th Century Fox,20th Century Fox,en,T,3,0,5
+222,E.T.: O Extraterrestre,1982,115,91,"familia, sci-fi",388530,78,28,F,Lucasfilm,20th Century Fox,en,F,9,4,
+223,O Silêncio dos Inocentes,1991,118,85,"crime, drama, thriller",1338081,86,54,F,Universal,Universal,en,F,7,5,25
+224,Cantando na Chuva,1952,103,99,"comedia, musical, romance",229474,82,8,T,Strong Heart,Orion,en,F,2,0,
+225,Gladiador,2000,155,67,"acao, aventura, drama",1405185,85,36,F,,Metro-Goldwyn-Mayer,en,F,12,5,19
+226,Titanic,1997,194,75,"drama, romance",1098415,78,88,T,Red Wagon,DreamWorks,en,F,14,11,9
+227,Laranja Mecânica,1971,136,77,"crime, drama, sci-fi",788558,83,43,F,Paramount,Paramount,en,F,4,0,
+228,Tubarão,1975,124,87,"aventura, thriller",567100,80,17,F,Polaris,Warner Bros.,en,T,4,3,
+229,Coração Valente,1995,178,68,"biografia, drama, historia",991523,83,58,T,Zanuck/Brown,Universal,en,F,5,5,23
+230,À Espera de um Milagre,1999,189,61,"crime, drama, fantasia",1209143,86,37,T,Paramount,Paramount,en,F,4,0,27
+231,Gênio Indomável,1997,126,70,"drama, romance",904694,83,42,T,Castle Rock,Warner Bros.,en,F,7,2,34
+232,O Morro dos Ventos Uivantes,1939,129,70,"drama, romance",9905,60,13,F,,Be Gentleman,en,F,0,0,
+233,Planeta dos Macacos: O Confronto,2014,130,79,"acao, aventura, drama",424072,76,30,F,Chernin,20th Century Fox,en,T,1,0,
+234,O Lobo de Wall Street,2013,180,75,"biografia, comedia, crime",1274027,82,135,T,Red Granite,Universal,en,F,5,0,28
+235,Sem Escalas,2014,106,56,"acao, misterio, thriller",257646,69,31,F,Silver,Universal,en,F,0,0,74
+236,A Saga Crepúsculo: Eclipse,2010,124,58,"acao, aventura, drama",236733,50,45,T,Temple Hill,Summit,en,T,0,0,22
+237,Caçador de Recompensas (I),2010,100,22,"acao, comedia, romance",124714,56,36,T,Relativity Media,Columbia,en,F,0,0,25
+238,A Verdade Nua e Crua,2009,96,28,"comedia, romance",211305,64,45,F,Relativity Media,Columbia,en,T,0,0,19
+239,Anjos da Noite,2003,98,,drama,114,70,30,T,Lakeshore,Screen Gems,pt-br,T,0,0,30
+240,A Maldição de Blackhills: Bruxa de Blair 3,2016,89,47,"horror, misterio, thriller",43766,50,6,F,Room 101,Lions Gate,en,T,0,0,1
+241,Stardust: O Mistério da Estrela,2007,127,66,"aventura, comedia, fantasia",263716,76,44,F,Ingenious,Paramount,en,F,0,0,5
+242,Uma Noite Mágica,1998,101,40,"comedia, drama, familia",34422,54,17,T,Toutchstone,Buena Vista,en,F,0,0,25
+243,Esqueceram de Mim 3,1997,102,,"acao, comedia, crime",110992,45,30,F,Hughes,20th Century Fox,en,T,0,0,0
+244,Hairspray: Em Busca da Fama,2007,117,81,"comedia, drama, musical",124702,67,143,T,Ingenious,New Line,en,T,0,0,48
+245,Pixels,2015,105,27,"animacao, acao, comedia",137605,55,71,T,Hughes,Universal,en,T,0,0,54
+246,Sempre ao Seu Lado,2009,93,,"biografia, drama, familia",267981,81,23,F,,Stage,en,F,0,0,40
+247,Amor por Acidente,2015,100,20,"comedia, romance",8246,41,36,F,A&M,Tristar,en,F,0,0,25
+248,Amor à Segunda Vista,2002,117,,"comedia, drama, fantasia",4220,70,26,F,Castle Rock,Warner Bros.,fr,F,0,0,0
+249,"Hook, a Volta do Capitão Gancho",1991,142,52,"aventura, comedia, familia",243766,68,73,T,Amblin,Tristar,en,T,0,0,8
+250,"Ela Dança, Eu Danço ",2006,104,48,"crime, drama, musical",114553,65,113,T,Screen Gems,Sony,en,T,0,0,2
+251,O Guarda-Costas,1992,129,39,"acao, drama, musical",127505,63,57,T,Kasdan,Warner Bros.,en,F,2,0,24

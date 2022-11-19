@@ -1,0 +1,49 @@
+ID,Nome,Ano,Duracao,Metascore,Qtd votos,IMDB,Qtd atores,Estrela de cinema,Companhia(s) produtora(s),Distribuicao,idioma original,colecao de filmes,oscars indicados,oscars ganhos,Qtd filmes anteriores ator princ.
+1,Frozen: Uma Aventura Congelante,2013,102,75,593891,74,58,F,Walt Disney,Walt Disney,en,T,2,2,21
+2,Truque de Mestre (I),2013,125,50,623096,72,55,F,Summit,Summit,en,T,0,0,23
+3,Esposa de Mentirinha ,2011,117,33,231195,64,59,T,Columbia,Columbia,en,F,0,0,41
+4,Casa Comigo? ,2010,100,33,100473,65,40,T,Universal,Universal,en,F,0,0,26
+5,Cartas para Julieta ,2010,105,50,96561,65,31,F,Summit,Summit,en,F,0,0,7
+6,Príncipe da Pérsia: As Areias do Tempo ,2010,116,50,280219,66,43,F,Walt Disney,Walt Disney,en,T,0,0,20
+7,Enrolados ,2010,100,71,424806,77,36,F,Walt Disney,Walt Disney,en,F,1,0,17
+8,Os Delírios de Consumo de Becky Bloom ,2009,104,38,76465,59,75,F,,,en,F,0,0,11
+9,O Diário da Princesa 2: Casamento Real ,2004,113,43,77528,58,140,T,Paramount,Paramount,en,T,0,0,5
+10,Como Perder um Homem em 10 Dias ,2003,116,45,222913,64,45,F,Paramount,Paramount,en,F,0,0,4
+11,O Espanta Tubarões ,2004,90,48,174617,60,31,T,Walt Disney,Buena Vista,en,F,1,0,18
+12,Razão e Sensibilidade ,1995,136,84,109738,77,47,T,,,en,F,6,1,9
+13,Robôs ,2005,91,64,139407,63,31,F,DreamWorks,DreamWorks,en,F,0,0,27
+14,Quarteto Fantástico e o Surfista Prateado ,2007,92,45,257382,56,24,T,20th Century Fox,20th Century Fox,en,T,0,0,15
+15,Space Jam: O Jogo do Século ,1996,88,59,189743,65,51,T,Marvel,20th Century Fox,en,T,0,0,2
+16,Alien vs. Predador ,2004,101,29,191150,56,40,F,Warner Bros.,Warner Bros.,en,T,0,0,10
+17,Atlantis: O Reino Perdido ,2001,95,52,111759,69,69,T,Davis,20th Century Fox,en,T,0,0,24
+18,Mudança de Hábito 2: Mais Loucuras no Convento ,1993,107,38,51691,57,23,F,Walt Disney,Buena Vista,en,T,0,0,8
+19,A Fantástica Fábrica de Chocolate ,2005,115,72,449500,66,101,F,Warner Bros.,Warner Bros.,en,F,1,0,33
+20,O Grinch ,2018,85,51,60125,63,41,T,Village,Warner Bros.,en,F,0,0,29
+21,Qual Seu Número? ,2011,106,35,76073,61,55,F,Universal,Universal,en,F,0,0,22
+22,Os Instrumentos Mortais: Cidade dos Ossos ,2013,130,33,130542,59,22,F,20th Century Fox,20th Century Fox,en,T,0,0,7
+23,Lanterna Verde ,2011,114,39,276397,55,50,T,Summit,Walt Disney,en,F,0,0,27
+24,Uma Garota Encantada ,2004,96,53,65391,63,38,T,DC,Warner Bros.,en,F,0,0,4
+25,Ghost - Do Outro Lado da Vida ,1990,127,52,206731,71,37,F,Paramount,Paramount,en,F,3,2,6
+26,As Mil Palavras,2012,91,26,41780,59,59,T,DreamWorks,Paramount,en,F,0,0,37
+27,Arthur e os Minimoys,2006,94,39,35313,60,38,F,EuropaCorp,EuropaCorp,en,T,0,0,6
+28,Noiva em Fuga ,1999,116,39,95932,56,46,T,Paramount,Paramount,en,F,0,0,22
+29,Pocahontas II: Uma Jornada para o Novo Mundo,1998,72,,14926,49,30,F,Walt Disney,Walt Disney,en,T,0,0,8
+30,Anastasia ,1997,94,61,117529,72,54,F,20th Century Fox,20th Century Fox,en,F,2,0,20
+31,Pocahontas (I) ,1995,81,58,178088,67,15,T,Walt Disney,Buena Vista,en,T,2,2,25
+32,A Pequena Sereia II: O Retorno para o Mar ,2000,75,,18670,56,19,T,Walt Disney,Buena Vista,en,T,0,0,43
+33,G.I. Joe: Retaliação,2013,110,41,178154,58,54,T,Hasbro,Paramount,en,T,0,0,23
+34,Pequenos Espiões 3: Game Over,2003,84,43,57879,57,33,T,,,en,T,0,0,3
+35,O Pequeno Stuart Little 2,2002,77,66,52548,55,29,T,Columbia,Sony,en,T,0,0,26
+36,Dr. Dolittle 2 ,2001,87,49,44370,47,74,T,Davis,20th Century Fox,en,T,0,0,22
+37,Motoqueiro Fantasma: Espírito de Vingança ,2011,96,34,115220,43,19,T,Columbia,Columbia,en,T,0,0,66
+38,Ponte para Terabítia ,2007,96,74,149658,72,26,F,Walden,Walt Disney,en,F,0,0,5
+39,Carros ,2006,97,73,389668,71,85,T,Pixar,Walt Disney,en,T,2,0,26
+40,Constantine,2005,121,50,323291,70,32,T,Warner Bros.,Warner Bros.,en,F,0,0,37
+41,Orgulho & Preconceito,2005,129,82,274582,78,27,T,StudioCanal,Universal,en,F,4,0,8
+42,A Noiva Cadáver,2005,77,83,256266,73,16,T,Warner Bros.,Warner Bros.,en,F,1,0,34
+43,"Hitch, Conselheiro Amoroso",2005,118,58,305260,66,48,T,Columbia,Columbia,en,F,0,0,19
+44,Click,2006,107,45,317189,64,57,T,Columbia,Sony,en,F,1,0,31
+45,Terror em Silent Hill,2006,125,31,221848,65,59,F,,,en,F,0,0,19
+46,Viva: A vida é uma festa!,2017,105,81,435907,84,62,F,Walt Disney,Walt Disney,en,F,2,2,4
+47,A Lagoa Azul,1980,104,31,66494,58,23,F,Columbia,Columbia,en,F,1,0,4
+48,Karatê Kid: A Hora da Verdade,1984,126,60,209079,73,14,F,Columbia,Columbia,,T,1,0,1
