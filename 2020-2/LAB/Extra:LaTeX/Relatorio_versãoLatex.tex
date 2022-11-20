@@ -1,0 +1,207 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[left=3cm,right=2cm,top=3cm,bottom=2cm]{geometry}
+\usepackage[brazil]{babel}
+\usepackage{pslatex}
+\usepackage{xcolor}
+\usepackage{enumerate}
+
+
+
+\begin{document}
+
+\title{Trabalho de Laboratório da computação}
+\author{Anna Gabriele}
+\date{\today}
+\maketitle
+
+\begin{abstract}
+Este trabalho mencionará o básico da formatação em \LaTeX{} que o trabalho de Laboratório da computação requisita, e também outras particularidades da formatação em \LaTeX{} que tornará esse trabalho como uma referência útil no decorrer do curso.
+\end{abstract}
+
+%A formatação a seguir é para a criação de um sumário. 
+\tableofcontents
+\clearpage
+%-----------------------
+
+\section{Seção Principal}
+Abaixo os tipos de localizações serão mostrados nas seções secundárias.
+
+\subsection{Seção Centralizada}
+\begin{center}
+Em um texto centralizado cria-se uma linha \textit{imaginária} vertical entre a margem esquerda e a margem direita, e o texto fica alinhado de forma que metade fique para um lado da linha e metade para o outro.
+\end{center}
+
+\subsection{Seção de alinhamento à direita}
+\begin{flushright}
+Aqui, o texto fica alinhado com a margem direita e desalinhado em relação à margem esquerda. Para alinhar um texto à \textit{direita} no \LaTeX{}, usa-se o ambiente  \textcolor{red}{flushright} que começa com o comando \textcolor{blue}{\textbackslash begin\{flushright\} } e termina com o comando  \textcolor{blue}{\textbackslash end\{flushright\}}. [1]
+\end{flushright}
+
+\subsection{Inserção}
+\begin{flushleft}
+Aqui, o texto fica alinhado com a margem esquerda e desalinhado em relação à margem direita. Para alinhar um texto à \textbf{esquerda} no \LaTeX{}, usa-se o ambiente  \textcolor{red}{flushleft} que começa com o comando \textcolor{blue}{\textbackslash begin\{flushleft\} } e termina com o comando  \textcolor{blue}{\textbackslash end\{flushleft\}}. [2]
+\end{flushleft}
+
+\subsubsection{Inserção de imagem}
+
+
+
+\subsubsection{Inserção de equação}
+
+A “Fórmula de Bhaskara” é considerada uma das mais importantes da matemática. Ela é usada para resolver as equações de segundo grau, sendo expressa da seguinte maneira: [\ref{bas:baskara}]
+
+\begin{equation}
+	 X = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}  
+	\label{bas:baskara}
+\end{equation}
+
+\subsubsection{Inserção de tabela}
+A trigonometria é considerada uma das áreas mais importantes da Matemática. No triângulo, os ângulos de 30º, 45º e 60º são considerados notáveis, pois estão presentes em diversos cálculos. Por isso seus valores trigonométricos correspondentes são organizados em uma tabela. 
+
+%A identação é uma boa prática em tabelas.
+\begin{table}[htb]
+	\centering
+	\begin{tabular}{ |c|c|c|c| } 
+ 		\hline
+ 		 x &  30$^\circ$ & 45$^\circ$ & 60$^\circ$                                    \\ \hline 
+ 		Seno & $\frac{1}{2}$ & $\frac{\sqrt{2}}{2}$ &  $\frac{\sqrt{3}}{2}$             \\ \hline
+ 		Cosseno & $\frac{\sqrt{3}}{2}$ & $\frac{\sqrt{2}}{2}$ & $\frac{1}{2}$              \\ \hline
+ 		Tangente & $\frac{\sqrt{3}}{3}$ & 1 & $\sqrt{3}$                                     \\ 
+ 		\hline
+	\end{tabular}
+	\caption{Tabela Seno, Cosseno e Tangente de ângulos notáveis.}
+	\label{tab:Tabela}
+\end{table}
+
+\clearpage
+
+
+
+\section{Complemento}
+\subsection{Enumeração de itens em uma lista}
+
+A enumeração de itens pode ser dada de três maneiras distintas: por pontos, por números e por descrições.
+
+\subsubsection{Lista de pontos}
+\begin{flushleft}
+Utiliza-se do comando \textit{Itemize} para definir uma lista padrão cujos subitens são símbolos no formato circular •.
+\vspace{0.2cm}
+
+Assim como na lista a seguir:
+\end{flushleft}
+
+\begin{itemize}
+	\item subitem
+	\item subitem
+	\item subitem
+	\item subitem
+\end{itemize}
+
+\subsubsection{Lista enumerada}
+
+\begin{flushleft}
+Utiliza-se do comando \textit{Enumerate} para definir uma lista padrão cujos subitens são os números inteiros positivos a partir de 1.
+\vspace{0.2cm}
+
+Assim como na lista a seguir:
+\end{flushleft}
+
+\begin{enumerate}
+	\item subitem
+	\item subitem
+	\item subitem
+	\item subitem
+\end{enumerate}
+
+\begin{flushleft}
+
+Além disso, uma sublista enumerada dentro de uma lista enumerada será organizada por ordem alfabética.
+
+\vspace{0.2cm}
+
+Assim como na lista a seguir:
+\end{flushleft}
+
+\begin{enumerate}
+	\item subitem
+	\item subitem
+		\begin{enumerate}
+			\item subitem
+			\item subitem
+			\item subitem
+			\item subitem
+		\end{enumerate}
+	\item subitem
+	\item subitem
+\end{enumerate}
+
+\subsubsection{Lista de descrições}
+
+\begin{flushleft}
+Utiliza-se do comando \textit{Description} para definir uma lista padrão cujos subitens não são identificados, possuindo apenas a identação de uma lista.
+\vspace{0.2cm}
+
+Assim como na lista a seguir:
+\end{flushleft}
+
+\begin{description}
+	\item subitem
+	\item subitem
+	\item subitem
+	\item subitem
+\end{description}
+
+\subsubsection{O pacote Enumerate}
+\begin{flushleft}
+O pacote enumerate, dado por \textcolor{red}{\textbackslash usepackage\{enumerate\}} possibilita a personalização da identificação dos símbolos usados para iniciar os subitens de uma lista. 
+
+Ele adiciona os números romanos, denotados por \textbf{I}, e o grupo de letras maiúsculas (A). E também, possibilita a utilização de caracteres usuais junto com a enumeração: \textbf{I.} , \textbf{I)} , \textbf{(I)} , \textbf{I - } , ...
+\end{flushleft}
+
+
+\begin{enumerate}[I.]
+	\item subitem
+		\begin{enumerate}[A)]
+			\item subitem
+			\item subitem
+			\item subitem
+		\end{enumerate}
+	\item subitem
+	\item subitem
+\end{enumerate}
+
+
+\subsection{Tipos de letras \LaTeX:}
+
+\begin{itemize}
+	\item Normal
+	\item \emph{Ênfase}
+	\item \textit{Itálico}
+	\item \textsl{Inclinado}
+	\item \textbf{Negrito}
+	\item \texttt{Máquina de Escrever}
+	\item \textsc{Maiúsculas Pequenas}
+	\item \textsf{Sem serifa}
+	\item \underline{Sublinhado}
+\end{itemize}
+
+
+
+\subsection{Tamanhos de letras no \LaTeX:}
+Os tamanhos de letras no \LaTeX podem ser variados. Assim podemos escolher tamanho de texto utilizando o comando de mesmo nome. Por exemplo, O tamanho 'footnotesize' pode ser obtido com o comando \textcolor{red}{\textbackslash \{footnotesize\}}.
+
+\begin{itemize}
+	\item {\tiny tiny}
+	\item {\scriptsize scriptsize}
+	\item {\footnotesize footnotesize}
+	\item {\small small}
+	\item {\normalsize normalsize}
+	\item {\large large}
+	\item {\Large Large}
+	\item {\LARGE LARGE}
+	\item {\huge huge}
+	\item {\Huge Huge}
+\end{itemize}
+
+\end{document}
