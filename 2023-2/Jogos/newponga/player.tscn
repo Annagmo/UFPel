@@ -1,0 +1,52 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://GenBarStanding.png" type="Texture2D" id=1]
+
+[sub_resource type="GDScript" id=2]
+script/source = "extends CharacterBody2D
+
+@export var a = true
+var move = Vector2()
+var direction
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+
+
+# warning-ignore:unused_argument
+func _physics_process(delta):
+	if a:
+		if Input.is_key_pressed(KEY_LEFT):
+			move.y = -300
+		elif Input.is_key_pressed(KEY_RIGHT):
+			move.y = 300
+		else:
+			move.y = 0
+	else:
+		if Input.is_key_pressed(KEY_Z):
+			move.y = -300
+		elif Input.is_key_pressed(KEY_X):
+			move.y = 300
+		else:
+			move.y = 0
+# warning-ignore:return_value_discarded
+	set_velocity(move)
+	move_and_slide()
+"
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 25, 84 )
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+script = SubResource( 2 )
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2( -9.53674e-07, -1.90735e-06 )
+scale = Vector2( 0.135899, 0.133758 )
+texture = ExtResource( 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 1 )

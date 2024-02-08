@@ -1,0 +1,89 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://player.tscn" type="PackedScene" id=1]
+[ext_resource path="res://back.webp" type="Texture2D" id=2]
+[ext_resource path="res://player2.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Ball.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Node2D.gd" type="Script" id=5]
+[ext_resource path="res://pixel_font.ttf" type="FontFile" id=6]
+
+[sub_resource type="FontFile" id=3]
+size = 35
+font_data = ExtResource( 6 )
+
+[sub_resource type="FontFile" id=4]
+size = 35
+font_data = ExtResource( 6 )
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 512, 28.375 )
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 34, 300 )
+
+[node name="world" type="Node2D"]
+script = ExtResource( 5 )
+
+[node name="back" type="Sprite2D" parent="."]
+position = Vector2( 512, 300 )
+scale = Vector2( 0.533333, 0.555556 )
+texture = ExtResource( 2 )
+
+[node name="Lp1" type="Label" parent="."]
+offset_left = 671.0
+offset_top = 58.0
+offset_right = 766.0
+offset_bottom = 95.0
+theme_override_fonts/font = SubResource( 3 )
+text = "0"
+
+[node name="Lp2" type="Label" parent="."]
+offset_left = 329.0
+offset_top = 58.0
+offset_right = 424.0
+offset_bottom = 95.0
+theme_override_fonts/font = SubResource( 4 )
+text = "0"
+
+[node name="p1" parent="." instance=ExtResource( 1 )]
+position = Vector2( 71, 200 )
+collision_mask = 3
+a = false
+
+[node name="p2" parent="." instance=ExtResource( 3 )]
+position = Vector2( 953, 200 )
+collision_mask = 3
+
+[node name="top" type="StaticBody2D" parent="."]
+
+[node name="top" type="CollisionShape2D" parent="top"]
+position = Vector2( 512, -28.375 )
+shape = SubResource( 1 )
+
+[node name="left" type="Area2D" parent="."]
+collision_layer = 2
+
+[node name="left" type="CollisionShape2D" parent="left"]
+position = Vector2( -34, 300 )
+shape = SubResource( 2 )
+
+[node name="right" type="Area2D" parent="."]
+collision_layer = 2
+
+[node name="right" type="CollisionShape2D" parent="right"]
+position = Vector2( 1058, 300 )
+shape = SubResource( 2 )
+
+[node name="bott" type="StaticBody2D" parent="."]
+
+[node name="bott" type="CollisionShape2D" parent="bott"]
+position = Vector2( 512, 628.25 )
+shape = SubResource( 1 )
+
+[node name="Ball" parent="." instance=ExtResource( 4 )]
+collision_mask = 3
+
+[connection signal="child_entered_tree" from="top" to="." method="_on_top_child_entered_tree"]
+[connection signal="body_entered" from="left" to="." method="_on_left_body_entered"]
+[connection signal="body_entered" from="right" to="." method="_on_right_body_entered"]
+[connection signal="child_entered_tree" from="bott" to="." method="_on_bott_child_entered_tree"]
