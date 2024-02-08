@@ -1,6 +1,6 @@
-extends KinematicBody2D
+extends CharacterBody2D
 
-export var a = true
+@export var a = true
 var move = Vector2()
 var direction
 
@@ -28,7 +28,8 @@ func _physics_process(delta):
 		else:
 			move.y = 0
 # warning-ignore:return_value_discarded
-	move_and_slide(move)
+	set_velocity(move)
+	move_and_slide()
 
 
 # warning-ignore:unused_argument

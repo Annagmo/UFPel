@@ -5,9 +5,9 @@ extends Node2D
 #func _process(delta):
 #	pass
 
-onready var P1score_label = $Lp1
-onready var P2score_label = $Lp2
-onready var ball = $Ball
+@onready var P1score_label = $Lp1
+@onready var P2score_label = $Lp2
+@onready var ball = $Ball
 
 var P1score = 0
 var P2score = 0
